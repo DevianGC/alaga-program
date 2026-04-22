@@ -291,7 +291,7 @@ export default function HomePage() {
             </div>
             <h1 className={styles.heroTitle}>
               Welcome to Barangay Sta. Rita
-              <span className={styles.heroTitleHighlight}>Digital Identification System</span>
+              <span className={styles.heroTitleHighlight}>Alaga Program</span>
             </h1>
             <p className={styles.heroDescription}>
               A digital platform for managing resident profiles, tracking assistance programs, 
